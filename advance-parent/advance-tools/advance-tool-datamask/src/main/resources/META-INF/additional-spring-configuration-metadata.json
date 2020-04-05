@@ -1,0 +1,10 @@
+{
+  "properties":[
+    {
+      "name": "advance.tool.datamask.close",
+      "type": "java.lang.Boolean",
+      "description": "是否关闭数据脱敏",
+      "defaultValue": false
+    }
+  ]
+}

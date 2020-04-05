@@ -1,0 +1,1 @@
+#org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.advance.sunrise.tool.datamask.config.DataMaskMessageConverterConfig
